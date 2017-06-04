@@ -23,4 +23,4 @@ getter没有及时响应state的变化，而第二次或之后都没有问题。
 当然这样处理是不符合ajax的，也不好。等以后我发现解决方法后会及时更新，我猜测是生命周期的问题。当然如果是全局缓存来做是不会有这个问题的，如果项目不大，上vuex的确是没必要。
 
 
-附外卖小程序二维码：![image](https://github.com/foolsogood/sell-by-vue/static/images/diao-sell.jpg)
+附外卖小程序二维码：![image](https://github.com/foolsogood/sell-by-vue/tree/master/static/images/diao-sell.jpg)
